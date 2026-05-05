@@ -1,6 +1,6 @@
-- Top 20% of customers contribute approximately 65–70% of total revenue, indicating a strong Pareto distribution.
-- VIP customers have 2–3x higher purchase frequency and significantly higher average order value compared to regular customers.
-- A noticeable portion of customers have not made a purchase in the last 60–90 days, indicating a potential churn risk.
-- Develop targeted loyalty programs and exclusive offers to retain high-value (VIP) customers.
-- Launch re-engagement campaigns (email/discounts) to win back inactive customers and reduce churn.
-- Allocate marketing budget more efficiently by focusing on high-value customer segments to maximize ROI.
+##  Key Insights
+
+- Revenue is highly concentrated among top customers
+- Clear seasonal trend in monthly revenue
+- Top products contribute majority of total sales
+- USA/UK are dominant markets in dataset
