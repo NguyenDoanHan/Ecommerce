@@ -1,0 +1,54 @@
+2026-05-05 09:05:15,572::CRITICAL::This is a critical log.....
+2026-05-05 09:05:15,572::INFO::Hello, World!
+2026-05-05 10:14:23,657::INFO::starting data extraction from ../data/ecommerce_data.csv
+2026-05-05 10:14:23,659::ERROR::Error occurred while extracting data from ../data/ecommerce_data.csv: [Errno 2] No such file or directory: '../data/ecommerce_data.csv'
+2026-05-05 10:14:50,734::INFO::starting data extraction from ../data/ecommerce_data.csv
+2026-05-05 10:14:50,735::ERROR::Error occurred while extracting data from ../data/ecommerce_data.csv: [Errno 2] No such file or directory: '../data/ecommerce_data.csv'
+2026-05-05 10:15:06,873::INFO::starting data extraction from ../data/ecommerce_data.csv
+2026-05-05 10:15:06,873::ERROR::Error occurred while extracting data from ../data/ecommerce_data.csv: [Errno 2] No such file or directory: '../data/ecommerce_data.csv'
+2026-05-05 10:32:18,865 - INFO - starting data extraction from ../data/ecommerce_data.csv
+2026-05-05 10:32:18,867 - ERROR - Error occurred while extracting data from ../data/ecommerce_data.csv: [Errno 2] No such file or directory: '../data/ecommerce_data.csv'
+2026-05-05 10:36:21,917 - INFO - starting data extraction from ../data/ecommerce_data.csv
+2026-05-05 10:36:21,918 - ERROR - Error occurred while extracting data from ../data/ecommerce_data.csv: [Errno 2] No such file or directory: '../data/ecommerce_data.csv'
+2026-05-05 10:39:00,592 - INFO - starting data extraction from ../data/ecommerce_data.csv
+2026-05-05 10:39:00,623 - ERROR - Error occurred while extracting data from ../data/ecommerce_data.csv: 'utf-8' codec can't decode byte 0xa3 in position 79780: invalid start byte
+2026-05-05 10:40:40,656 - INFO - starting data extraction from ../data/ecommerce_data.csv
+2026-05-05 10:40:40,683 - ERROR - Error occurred while extracting data from ../data/ecommerce_data.csv: 'utf-8' codec can't decode byte 0xa3 in position 79780: invalid start byte
+2026-05-05 10:41:30,996 - INFO - starting data extraction from ../Data/ecommerce_data.csv
+2026-05-05 10:41:31,025 - ERROR - Error occurred while extracting data from ../Data/ecommerce_data.csv: 'utf-8' codec can't decode byte 0xa3 in position 79780: invalid start byte
+2026-05-05 10:41:38,310 - INFO - starting data extraction from ../Data/ecommerce_data.csv
+2026-05-05 10:41:38,336 - ERROR - Error occurred while extracting data from ../Data/ecommerce_data.csv: 'utf-8' codec can't decode byte 0xa3 in position 79780: invalid start byte
+2026-05-05 10:42:04,807 - INFO - starting data extraction from ../Data/ecommerce_data.csv
+2026-05-05 10:42:04,836 - ERROR - Error occurred while extracting data from ../Data/ecommerce_data.csv: 'utf-8' codec can't decode byte 0xa3 in position 79780: invalid start byte
+2026-05-05 10:43:39,901 - INFO - starting data extraction from ../Data/ecommerce_data.csv
+2026-05-05 10:43:40,389 - INFO - Loaded 541909 rows
+2026-05-05 10:43:40,389 - INFO - Data extracted successfully from ../Data/ecommerce_data.csv
+2026-05-05 10:43:40,392 - ERROR - Error occurred while transforming data: Missing columns: ['quantity', 'price', 'customer_id', 'order_date', 'order_id']
+2026-05-05 10:44:18,832 - INFO - starting data extraction from ../Data/ecommerce_data.csv
+2026-05-05 10:44:19,353 - INFO - Loaded 541909 rows
+2026-05-05 10:44:19,353 - INFO - Data extracted successfully from ../Data/ecommerce_data.csv
+2026-05-05 10:44:19,354 - ERROR - Error occurred while transforming data: Missing columns: ['quantity', 'price', 'customer_id', 'order_date', 'order_id']
+2026-05-05 10:44:49,683 - INFO - starting data extraction from ../Data/ecommerce_data.csv
+2026-05-05 10:44:50,167 - INFO - Loaded 541909 rows
+2026-05-05 10:44:50,167 - INFO - Data extracted successfully from ../Data/ecommerce_data.csv
+2026-05-05 10:44:50,168 - ERROR - Error occurred while transforming data: Missing columns: ['quantity', 'price', 'customer_id', 'order_date', 'order_id']
+2026-05-05 10:45:06,301 - INFO - starting data extraction from ../Data/ecommerce_data.csv
+2026-05-05 10:45:06,886 - INFO - Loaded 541909 rows
+2026-05-05 10:45:06,886 - INFO - Data extracted successfully from ../Data/ecommerce_data.csv
+2026-05-05 10:45:06,889 - ERROR - Error occurred while transforming data: Missing columns: ['quantity', 'price', 'customer_id', 'order_date', 'order_id']
+2026-05-05 10:48:20,338 - INFO - starting data extraction from ../Data/ecommerce_data.csv
+2026-05-05 10:48:20,826 - INFO - Loaded 541909 rows
+2026-05-05 10:48:20,826 - INFO - Data extracted successfully from ../Data/ecommerce_data.csv
+2026-05-05 10:48:20,862 - INFO - Starting data transformation
+2026-05-05 10:48:21,389 - INFO - Data transformation completed successfully
+2026-05-05 10:48:21,389 - INFO - Rows after cleaning: 392692
+2026-05-05 10:48:21,399 - INFO - Starting data loading to ../output/cleaned_data.csv
+2026-05-05 10:48:23,345 - INFO - Data loaded successfully to ../output/cleaned_data.csv
+2026-05-05 10:50:30,844 - INFO - starting data extraction from ../Data/ecommerce_data.csv
+2026-05-05 10:50:31,376 - INFO - Loaded 541909 rows
+2026-05-05 10:50:31,376 - INFO - Data extracted successfully from ../Data/ecommerce_data.csv
+2026-05-05 10:50:31,376 - INFO - Starting data transformation
+2026-05-05 10:50:31,975 - INFO - Data transformation completed successfully
+2026-05-05 10:50:31,975 - INFO - Rows after cleaning: 392692
+2026-05-05 10:50:31,983 - INFO - Starting data loading to ../output/cleaned_data.csv
+2026-05-05 10:50:34,855 - INFO - Data loaded successfully to ../output/cleaned_data.csv
